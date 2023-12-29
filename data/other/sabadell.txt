@@ -1,0 +1,61 @@
+Bank Accounts:
+Savings Account:
+
+Interest Rates: 1.5% - 3.0% APY based on balance tiers.
+Minimum Balance: $1,000 to waive monthly fees.
+Monthly Fee: $10, waived with a minimum daily balance of $1,000.
+Checking Account:
+
+Interest Rates: 0.5% APY on balances over $2,000.
+Monthly Fee: $8 with no waiver conditions.
+Student Account:
+
+No Monthly Fee for students but no interest accrual.
+Credit Cards:
+Basic Credit Card:
+
+APR: 18.99% - 27.99% variable APR based on creditworthiness.
+Annual Fee: $100.
+0.5% cashback on all purchases.
+Premium Credit Card:
+
+APR: 15.99% - 24.99% variable APR based on creditworthiness.
+Annual Fee: $200.
+Travel rewards and 1% cashback on select categories.
+Loans and Mortgages:
+Personal Loan:
+
+Fixed APR: 12.99% - 18.99% based on credit history.
+Loan Amount: $5,000 - $50,000.
+Term: 24 - 60 months.
+Mortgage:
+
+Fixed Rate: 4.5% for a 30-year term.
+Variable Rate: 3.25% introductory rate for the first 5 years, then adjustable.
+Down Payment: 25% of the property value.
+Investment Products:
+Mutual Funds:
+
+Annual Expense Ratio: 1.0%.
+Average Annual Return: 6% over the last 5 years.
+Retirement Account (IRA):
+
+Traditional IRA: Tax-deferred contributions up to $5,000 per year.
+Roth IRA: Tax-free withdrawals for qualified distributions.
+Insurance:
+Life Insurance:
+
+Premiums: $50/month for a $500,000 coverage term life policy for a healthy 35-year-old.
+Term: 20 years.
+Health Insurance:
+
+Premiums: $500/month for a family plan with a $2,000 deductible and comprehensive coverage.
+Business and Corporate Services:
+Business Checking Account:
+
+Monthly Fee: $25, waived with a minimum balance of $7,500.
+Additional Fees for excess transactions.
+Business Loan:
+
+Line of Credit: Up to $150,000 based on business revenue.
+Variable Interest Rate: Prime Rate + 3%.

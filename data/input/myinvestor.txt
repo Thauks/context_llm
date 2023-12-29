@@ -1,0 +1,6 @@
+Myinvestor
+Mortgage:
+
+Fixed Rate: 3.25% for a 30-year term.
+Variable Rate: 2.75% introductory rate for the first 5 years, then adjustable.
+Down Payment: 15% of the property value.
