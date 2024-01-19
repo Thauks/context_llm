@@ -1,6 +1,63 @@
 Myinvestor
+Bank Accounts:
+Savings Account:
+
+Interest Rates: 2.0% - 4.0% APY based on balance tiers.
+Minimum Balance: No minimum balance requirement.
+No Monthly Fee.
+Checking Account:
+
+No interest on balances.
+No Monthly Fee.
+Student Account:
+
+No Monthly Fee for students.
+No interest accrual.
+Credit Cards:
+Basic Credit Card:
+
+APR: 12.99% - 18.99% variable APR based on creditworthiness.
+No Annual Fee.
+1% cashback on all purchases.
+Premium Credit Card:
+
+APR: 10.99% - 16.99% variable APR based on creditworthiness.
+No Annual Fee.
+2% cashback on select categories.
+Loans and Mortgages:
+Personal Loan:
+
+Fixed APR: 7.99% - 13.99% based on credit history.
+Loan Amount: $5,000 - $50,000.
+Term: 12 - 48 months.
 Mortgage:
 
 Fixed Rate: 3.25% for a 30-year term.
 Variable Rate: 2.75% introductory rate for the first 5 years, then adjustable.
 Down Payment: 15% of the property value.
+Investment Products:
+Mutual Funds:
+
+Annual Expense Ratio: 0.5%.
+Average Annual Return: 8% over the last 5 years.
+Retirement Account (IRA):
+
+Traditional IRA: Tax-deferred contributions up to $6,000 per year.
+Roth IRA: Tax-free withdrawals for qualified distributions.
+Insurance:
+Life Insurance:
+
+Premiums: $25/month for a $500,000 coverage term life policy for a healthy 35-year-old.
+Term: 20 years.
+Health Insurance:
+
+Premiums: $300/month for a family plan with a $1,000 deductible and comprehensive coverage.
+Business and Corporate Services:
+Business Checking Account:
+
+Monthly Fee: $10, waived with a minimum balance of $2,000.
+No additional fees for transactions.
+Business Loan:
+
+Line of Credit: Up to $100,000 based on business revenue.
+Variable Interest Rate: Prime Rate + 2%.
